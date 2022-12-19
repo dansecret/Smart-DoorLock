@@ -28,4 +28,4 @@ Smart-Doorlock with arduino uno + RFID RC522 Scan E-KTP
 
 
 ### author
- <a href="https://me-dansecret.github.io/">Hamdandih</a>
+ <a href="https://dansecret.github.io/ " target="_blank">Hamdandih</a>
