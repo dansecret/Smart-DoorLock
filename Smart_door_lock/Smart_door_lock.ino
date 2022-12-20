@@ -34,7 +34,8 @@ void setup() {
 void loop() {
   lcd.setCursor (0,0); 
   lcd.print(" Tempelkan Tag! ");
-  digitalWrite (pinrelay, HIGH);
+  digitalWrite (pinrelay, HIGH
+  );
   // Cek untuk kartu yang baru disisipkan 
   if (!mfrc.PICC_IsNewCardPresent())
     return;
